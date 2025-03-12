@@ -1,0 +1,17 @@
+{
+  "name": "layer-ninja",
+  "version": "1.0.0",
+  "description": "Figmaで特定のレイヤー名を持つ要素の表示/非表示を切り替えるプラグイン",
+  "main": "dist/code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json && cp src/ui.html dist/",
+    "watch": "tsc -p tsconfig.json -w",
+    "dev": "npm run build && npm run watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.82.0",
+    "typescript": "^5.3.0"
+  }
+}

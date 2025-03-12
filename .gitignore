@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# ビルドファイル
+/dist
+/build
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+manifest.json
