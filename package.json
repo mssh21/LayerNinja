@@ -8,7 +8,7 @@
     "watch": "tsc -p tsconfig.json -w",
     "dev": "npm run build && npm run watch"
   },
-  "author": "",
+  "author": "mssh21",
   "license": "MIT",
   "devDependencies": {
     "@figma/plugin-typings": "^1.82.0",
