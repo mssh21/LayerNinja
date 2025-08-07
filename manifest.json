@@ -1,6 +1,6 @@
 {
   "name": "LayerNinja",
-  "id": "layer-ninja",
+  "id": "mssh21-layer-ninja",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
