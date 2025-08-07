@@ -1,6 +1,6 @@
 {
   "name": "LayerNinja",
-  "id": "1481473385594962074",
+  "id": "layer-ninja",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",
